@@ -15,7 +15,8 @@ In order to run Xamarin.UI Tests with Visual Studio for Mac, the following depen
 
 All test interactions with the mobile application occur through an instance of Xamarin.UITest.IApp. This interface defines the methods that are crucial for the test to collaborate with the application and interact with the user interface. There are two concrete implementations of this interface:
 
-Xamarin.UITest.iOS.iOSApp – This class will automate tests against iOS. Xamarin.UITest.Android.AndroidApp – This class is for automating tests on Android.
+Xamarin.UITest.iOS.iOSApp – This class will automate tests against iOS. 
+Xamarin.UITest.Android.AndroidApp – This class is for automating tests on Android.
 
 Xamarin.UI Test expects an Emulator to be already running, it can pick up the emulators that's running. If incase, you have one or more devices running, you need to pass in a device id to Xamarin.UI instance
 
