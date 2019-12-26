@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{CA316838-7D28-4E59-9E4B-570F544A3EF1}|Unit Tests">
+  <MonoDevelop.Ide.Workbench ActiveDocument="XamarinEyesTests/AppInitializer.cs">
+    <Files>
+      <File FileName="XamarinEyesTests/Tests.cs" Line="17" Column="24" />
+      <File FileName="XamarinEyesTests/packages.config" Line="1" Column="1" />
+      <File FileName="XamarinEyesTests/AppInitializer.cs" Line="10" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="XamarinEyesTests" expanded="True">
+            <Node name="XamarinEyesTests" expanded="True">
+              <Node name="AppInitializer.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="XamarinEyesTests" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.XamarinEyesTests PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
